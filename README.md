@@ -3,7 +3,7 @@
 
 # About the project
 
-This project is basic so that you can register drivers and their vehicles so that one day it can carry great offers
+This project is basically so that you can register drivers and their vehicles so that one day it can load great deals.
 
 The project uses the JSON-SERVER
 
