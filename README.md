@@ -10,9 +10,11 @@ The project uses the JSON-SERVER
 To use it, follow the steps below:
 
 1. Create a clone of the project;
-2. Install json-server extension;
-3. Enter this command in your CMD:
-json-server --watch db.json -p 3005 -d 2000
+2. Run npm/yarn in your project;
+3. Install json-server extension;
+4. Install material-ui library;
+5. Enter this command in your CMD:
+json-server --watch db.json -p 3005 -d 2000;
 
 # A little screenshot of the project
 ![image](https://user-images.githubusercontent.com/103580714/221685132-1674f661-c387-4446-801f-7dfc54194af0.png)
