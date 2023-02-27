@@ -14,6 +14,9 @@ To use it, follow the steps below:
 3. Enter this command in your CMD:
 json-server --watch db.json -p 3005 -d 2000
 
+# A little screenshot of the project
+![image](https://user-images.githubusercontent.com/103580714/221685132-1674f661-c387-4446-801f-7dfc54194af0.png)
+
 # Technologies used
 
 - HTML
