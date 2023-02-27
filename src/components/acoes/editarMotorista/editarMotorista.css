@@ -1,0 +1,12 @@
+.modalEditarMotora {
+  border: 1px solid black;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  position: absolute;
+  right: -8px;
+  top: -8px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}

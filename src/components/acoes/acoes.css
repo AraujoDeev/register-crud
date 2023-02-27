@@ -1,0 +1,11 @@
+.box {
+  height: 30px;
+  overflow: hidden;
+  padding: 12px 4px;
+  cursor: pointer;
+}
+
+.box:hover {
+  background-color: rgba(228, 228, 228, 0.61);
+  transition: all ease-in-out 0.3s;
+}

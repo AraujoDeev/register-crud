@@ -1,0 +1,17 @@
+.table {
+  border: 1px solid purple;
+  width: 95%;
+}
+
+.linha {
+  border: 1px solid black;
+}
+
+.teste:hover {
+  transition: all ease 0.3s;
+  background-color: #00000025;
+}
+
+.Mui-selected {
+  background-color: #ff6f2d !important;
+}

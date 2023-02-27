@@ -1,0 +1,171 @@
+.contentCadastro {
+  width: 100%;
+}
+
+form {
+  width: 100%;
+  max-height: 100vh;
+  background-color: rgb(190, 187, 187);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dadosPessoais {
+  background-color: white;
+  width: 100%;
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.dadosPessoais h3 {
+  padding: 8px 30px;
+}
+.filds {
+  width: auto;
+  margin-right: 30px;
+}
+
+.filds input {
+  margin-right: 20px;
+  background-color: rgb(190, 187, 187);
+  width: 100%;
+  padding: 10px 3px;
+  border: 1px solid black;
+  border-radius: 4px;
+}
+
+.filds .nome {
+  width: 20rem;
+  background-color: rgb(190, 187, 187);
+  padding: 10px 3px;
+  border-radius: 4px;
+  outline: none;
+}
+
+.firtLine {
+  display: flex;
+  justify-content: start;
+  padding: 8px 30px;
+}
+
+.firtLine select {
+  background-color: rgb(190, 187, 187);
+  width: 30%;
+  border-radius: 4px;
+}
+
+.secondLine {
+  display: flex;
+  justify-content: start;
+  padding: 8px 30px;
+}
+
+.filds .cell {
+  background-color: rgb(190, 187, 187);
+  padding: 10px 3px;
+  border-radius: 4px;
+  width: 10rem;
+  margin-right: 20px;
+  outline: none;
+}
+
+input[type='number']::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.filds .email {
+  background-color: rgb(190, 187, 187);
+  padding: 10px 3px;
+  border: 1px solid black;
+  border-radius: 4px;
+  width: 20rem;
+  outline: none;
+}
+
+.thirtLine {
+  display: flex;
+  justify-content: start;
+  padding: 8px 30px;
+}
+
+.filds .date {
+  background-color: rgb(190, 187, 187);
+  padding: 10px 3px;
+  border-radius: 4px;
+  width: 10rem;
+  outline: none;
+}
+
+.filds .mae {
+  background-color: rgb(190, 187, 187);
+  padding: 10px 3px;
+  border: 1px solid black;
+  border-radius: 4px;
+  width: 20rem;
+  outline: none;
+}
+
+.documentos {
+  margin-top: 20px;
+  background-color: white;
+  width: 100%;
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.documentos h3 {
+  padding: 8px 30px;
+}
+
+.docFirtLine {
+  display: flex;
+  justify-content: start;
+  padding: 8px 30px;
+}
+
+.filds .docs {
+  margin-right: 20px;
+  background-color: rgb(190, 187, 187);
+  padding: 10px 3px;
+  border: 1px solid black;
+  border-radius: 4px;
+  width: 10rem;
+  outline: none;
+}
+
+.docSecondLine {
+  display: flex;
+  justify-content: start;
+  padding: 8px 30px;
+}
+
+.filds .orgaoExpeditor {
+  margin-right: 20px;
+  background-color: rgb(190, 187, 187);
+  padding: 10px 3px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 4px;
+  width: 8rem;
+  outline: none;
+}
+
+.message {
+  color: red;
+}
+
+.buttonCadastrar {
+  background-color: white;
+  padding: 10px 3px;
+  border: 1px solid black;
+  border-radius: 4px;
+  width: 15%;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.buttonCadastrar:active {
+  background-color: rgb(184, 184, 184);
+}

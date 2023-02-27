@@ -1,0 +1,42 @@
+.header {
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header p {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.direita {
+  display: flex;
+  width: 310px;
+  justify-content: space-between;
+}
+
+.search {
+  background-color: transparent;
+  outline: none;
+  border: 1px solid grey;
+  padding: 8px 4px;
+  border-radius: 6px;
+}
+
+.button {
+  background-color: #f07238;
+  cursor: pointer;
+  width: 70px;
+  border: 1px solid grey;
+  padding: 8px 4px;
+  border-radius: 6px;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.button:hover {
+  background-color: #cc5d2a;
+}

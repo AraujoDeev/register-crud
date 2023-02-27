@@ -1,0 +1,4 @@
+.teste:hover {
+  transition: all ease 0.3s;
+  background-color: #00000025;
+}
